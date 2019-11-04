@@ -1,0 +1,7 @@
+C:\Users\SENTURK\Desktop\AtliKarincaKazanc\AtliKarincaKazanc\bin\Debug\AtliKarincaKazanc.exe.config
+C:\Users\SENTURK\Desktop\AtliKarincaKazanc\AtliKarincaKazanc\bin\Debug\AtliKarincaKazanc.exe
+C:\Users\SENTURK\Desktop\AtliKarincaKazanc\AtliKarincaKazanc\bin\Debug\AtliKarincaKazanc.pdb
+C:\Users\SENTURK\Desktop\AtliKarincaKazanc\AtliKarincaKazanc\obj\Debug\AtliKarincaKazanc.csprojAssemblyReference.cache
+C:\Users\SENTURK\Desktop\AtliKarincaKazanc\AtliKarincaKazanc\obj\Debug\AtliKarincaKazanc.csproj.CoreCompileInputs.cache
+C:\Users\SENTURK\Desktop\AtliKarincaKazanc\AtliKarincaKazanc\obj\Debug\AtliKarincaKazanc.exe
+C:\Users\SENTURK\Desktop\AtliKarincaKazanc\AtliKarincaKazanc\obj\Debug\AtliKarincaKazanc.pdb
